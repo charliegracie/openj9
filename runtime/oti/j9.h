@@ -38,7 +38,7 @@
 #include "j9argscan.h"
 #include "omrthread.h"
 #include "j9class.h"
-#include "j9pool.h"
+#include "omrpool.h"
 #include "j9simplepool.h"
 #include "omrhashtable.h"
 #include "j9lib.h"

@@ -25,7 +25,7 @@
 
 #include "j9.h"
 #include "j9comp.h"
-#include "j9pool.h"
+#include "omrpool.h"
 
 #ifdef __cplusplus
 extern "C" {

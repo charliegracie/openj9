@@ -38,7 +38,7 @@
 #endif /* defined(J9ZTPF) */
 
 #include "j9vm_internal.h"
-#include "j9pool.h"
+#include "omrpool.h"
 #include "util_api.h"
 #include "j9lib.h"
 #include "exelib_api.h"

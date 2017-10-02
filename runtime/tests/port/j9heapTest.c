@@ -43,7 +43,7 @@
 
 #include "testHelpers.h"
 #include "j9port.h"
-#include "j9pool.h"
+#include "omrpool.h"
 #include "pool_api.h"
 #include "omrutil.h"
 
